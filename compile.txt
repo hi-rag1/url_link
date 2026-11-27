@@ -1,0 +1,1 @@
+g++ url_link.cpp -o url_link -fexec-charset=CP932
